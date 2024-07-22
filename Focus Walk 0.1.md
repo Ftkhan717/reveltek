@@ -9,6 +9,8 @@ activities. This document provides a step-by-step guide on how to properly use t
 
 * Open your laptop and start your day by running the Focus Tracker.
 * Navigate to the (focus.exe) file in the Focus Hive folder, which is synced with MS Teams.
+![image](https://github.com/user-attachments/assets/929c896e-7153-477b-b803-75feb11fe652)
+
 * Launch "focus.exe" to start tracking your work by taking screenshots of your laptop screen.
 
 ### Set Your SMART Goals:
@@ -48,6 +50,8 @@ activities. This document provides a step-by-step guide on how to properly use t
 
 * Throughout the day, ensure that the screenshots taken reflect the summary of your entire day's work.
 * For presentation screenshots, press "P".
+![image](https://github.com/user-attachments/assets/0b9d680d-9820-4b9f-ae41-a147c71cafdd)
+
 * Ensuring Proper Group Chat Setup
 
 ### Focus Tracker in MS Teams:
