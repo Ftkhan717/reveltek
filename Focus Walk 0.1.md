@@ -1,17 +1,16 @@
 ## Focus Walk:
 #### Overview:
 
-The Focus Tracker/Watcher app is an essential tool used in our tech company to track work progress throughout the day. It takes screenshots of our laptop screens to monitor our 
-activities. This document provides a step-by-step guide on how to properly use the Focus Tracker (FT) and ensure that your daily goals are aligned with the SMART criteria.
+The Focus Suite/Watcher app is an essential tool used in our company to track work progress throughout the day. It takes screenshots of our screens to monitor our activities. This document provides a step-by-step guide on how to properly use the Focus Suite (FS) and ensure that your daily goals are aligned with the SMART criteria.
 
-### Starting Your Day with Focus Tracker
-### Open Focus Tracker:
+### Starting Your Day with Focus Suite
+### Open Focus Suite:
 
-* Open your laptop and start your day by running the Focus Tracker.
+* Open your laptop and start your day by running the Focus Suite.
 * Navigate to the (focus.exe) file in the Focus Hive folder, which is synced with MS Teams.
 ![image](https://github.com/user-attachments/assets/929c896e-7153-477b-b803-75feb11fe652)
 
-* Launch "focus.exe" to start tracking your work by taking screenshots of your laptop screen.
+* Launch "focus.exe" to start tracking your work by taking screenshots of your screen and a snapshot of yours in the start of the day.
 
 ### Set Your SMART Goals:
 
@@ -50,9 +49,14 @@ activities. This document provides a step-by-step guide on how to properly use t
 
 * Throughout the day, ensure that the screenshots taken reflect the summary of your entire day's work.
 * For presentation screenshots, press "P".
+
 ![image](https://github.com/user-attachments/assets/0b9d680d-9820-4b9f-ae41-a147c71cafdd)
 
 * Ensuring Proper Group Chat Setup
+## Focus Out
+
+* At the end of your day, make sure that you have completed your SMART goal and that it reflects your Smart In. 
+* You need to write the Focus Out at the end of your day to let others know that you are on track.
 
 ### Focus Tracker in MS Teams:
 
