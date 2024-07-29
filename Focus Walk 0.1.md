@@ -1,14 +1,7 @@
 ## Focus Walk:
 #### Overview:
 
-The Focus Suite/Watcher app is an essential tool used in our company to track work progress throughout the day. It takes screenshots of our screens to monitor our activities. This document provides a step-by-step guide on how to properly use the Focus Suite (FS) and ensure that your daily goals are aligned with the SMART criteria.
-
-#### AI Focus Walk:
-
-* The app will digitally walk across the entire day and make sure all photos have a theme aligned with the Jira/Github task.
-* It will give a summary for the full day.
-* Focus In / Focus Out will be saved to a spreadsheet.
-* Focus Feedback will be saved to a spreadsheet.
+The Focus Suite/Watcher app is an essential tool used in our company to track work progress throughout the day. It takes screenshots of our screens and webcam snaps to monitor our activities. The app also includes AI image analysis to verify dress code, identity, headset usage, and workspace tidiness. This document provides a step-by-step guide on how to properly use the Focus Suite (FS) and ensure that your daily goals are aligned with the SMART criteria.
 
 ### Starting Your Day with Focus Suite
 ### Open Focus Suite:
@@ -59,7 +52,27 @@ The Focus Suite/Watcher app is an essential tool used in our company to track wo
 
 ![image](https://github.com/user-attachments/assets/0b9d680d-9820-4b9f-ae41-a147c71cafdd)
 
+#### AI Focus Walk:
+
+* The app will digitally walk across the entire day and make sure all photos have a theme aligned with the Jira/Github task.
+* It will give a summary for the full day.
+* Focus In / Focus Out will be saved to a spreadsheet.
+* Focus Feedback will be saved to a spreadsheet.
 * Ensuring Proper Group Chat Setup
+
+### AI Image Analysis
+#### Send WebCam Snaps:
+
+* Make sure they match the dress code.
+* Verify that it is the person who we are paying.
+* Ensure they have a headset with a mic.
+* Confirm that their background is not cluttered.
+
+#### Send Screen Snaps:
+
+* Analyze screen activities to ensure they are aligned with the Jira/Github task assigned.
+* Make sure distraction apps or webpages aren't open.
+
 ## Focus Out
 
 * At the end of your day, make sure that you have completed your SMART goal and that it reflects your Smart In. 
