@@ -3,6 +3,13 @@
 
 The Focus Suite/Watcher app is an essential tool used in our company to track work progress throughout the day. It takes screenshots of our screens to monitor our activities. This document provides a step-by-step guide on how to properly use the Focus Suite (FS) and ensure that your daily goals are aligned with the SMART criteria.
 
+#### AI Focus Walk:
+
+* The app will digitally walk across the entire day and make sure all photos have a theme aligned with the Jira/Github task.
+* It will give a summary for the full day.
+* Focus In / Focus Out will be saved to a spreadsheet.
+* Focus Feedback will be saved to a spreadsheet.
+
 ### Starting Your Day with Focus Suite
 ### Open Focus Suite:
 
@@ -63,3 +70,8 @@ The Focus Suite/Watcher app is an essential tool used in our company to track wo
 * Ensure that the Focus Tracker starts in the correct group chat on MS Teams.
 * If it does not, contact the appropriate leader who can change its Focus Cell for you, so it starts working in the right group chat.
 * By following these steps, you can ensure that your work is effectively tracked and documented, making it easier to review your progress and present your work at the end of the day.
+
+### Weekly Review
+
+* The AI Focus Walker will look at all days of the week to make sure they steer towards a common goal.
+* A weekly summary will be provided to management.
