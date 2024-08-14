@@ -1,7 +1,6 @@
-## Meeting Notes: Seven Steps of ANDDROID
+## Meeting Notes: Seven Steps of ANDROID
 ### Overview
-The meeting focused on the strategic planning and structuring of various departments and companies using the ANDDROID framework.Each letter in ANDDROID represents a key step or 
-component in the overall strategy to optimize service delivery and client satisfaction.
+The meeting focused on the strategic planning and structuring of various departments and companies using the ANDROID framework.Each letter in ANDROID represents a key step or component in the overall strategy to optimize service delivery and client satisfaction.
 
 ## Key Points:
 
@@ -16,7 +15,7 @@ component in the overall strategy to optimize service delivery and client satisf
 
 ### N - Network and Recruitment
 
-#### Dan Hope: Proposed as the official company for candidate sourcing, job descriptions, salary negotiations, and employee retention.
+#### Dan Hup: Proposed as the official company for candidate sourcing, job descriptions, salary negotiations, and employee retention.
 * Key Questions:
 * Do clients have staff that understands agile methodology?
 * Are their staff 6 Sigma certified or have computer science degrees?
